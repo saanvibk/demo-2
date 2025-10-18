@@ -1,0 +1,11 @@
+# ...existing code...
+Flask>=2.0
+cryptography>=3.4
+pycryptodome>=3.10
+requests>=2.25
+python-dotenv>=0.21
+pytest>=6.2
+pytest-cov>=2.12
+black>=23.1
+mypy>=0.931
+# ...existing code...
